@@ -1,8 +1,6 @@
 {
   "extensions.showBuiltin": true,
   "redhat.telemetry.enabled": false,
-  "workbench.colorTheme": "Gruvbox Dark Hard",
-  "editor.fontSize": 18,
   "git.autofetch": true,
   "python.insidersChannel": "off",
   "update.mode": "manual",
@@ -19,5 +17,8 @@
     "coverage.xml": true,
     ".pytest_cache": true
   },
-  "editor.mouseWheelZoom": true
+  "editor.mouseWheelZoom": true,
+  "cSpell.words": [
+    "Dynaconf"
+  ]
 }
